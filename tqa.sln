@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tqa", "tqa\tqa.csproj", "{8D252C6A-CEC4-4831-925C-05F8634DBB8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D252C6A-CEC4-4831-925C-05F8634DBB8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D252C6A-CEC4-4831-925C-05F8634DBB8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D252C6A-CEC4-4831-925C-05F8634DBB8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D252C6A-CEC4-4831-925C-05F8634DBB8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {559A926B-DC05-4C9A-8A5C-A3411A3D7BB1}
+	EndGlobalSection
+EndGlobal
